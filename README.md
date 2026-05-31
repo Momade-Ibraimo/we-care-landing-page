@@ -18,11 +18,6 @@ O projeto foi desenvolvido para funcionar corretamente em:
 Desktop
 Tablet
 Smartphones
-Objetivo
 
-Projeto criado para praticar conceitos de:
-
-Estruturação de páginas com HTML
-Posicionamento de elementos com CSS
-Responsividade com Media Queries
-Boas práticas de desenvolvimento Front-End
+## Links:
+- Projeto:https://momade-ibraimo.github.io/we-care-landing-page/
